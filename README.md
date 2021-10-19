@@ -11,3 +11,7 @@ this is a cloud change
 this is that
 
 This is a local change Add change
+
+This is a local change this is a local change
+
+THIS IS NOT A CONFLICT 
