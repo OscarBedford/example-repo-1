@@ -17,3 +17,6 @@ This is a local change this is a local change
 THIS IS NOT A CONFLICT 
 
 this is a branch
+
+
+new change
