@@ -18,5 +18,6 @@ THIS IS NOT A CONFLICT
 
 this is a branch
 
+test 2 changes
 
 new change
