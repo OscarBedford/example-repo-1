@@ -7,3 +7,5 @@ This is a test we use to teach Zlab how to use git
 * We are making changes from the local repo
 
 this is a cloud change
+
+this is that
