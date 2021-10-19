@@ -9,3 +9,5 @@ This is a test we use to teach Zlab how to use git
 this is a cloud change
 
 this is that
+
+This is a local change
